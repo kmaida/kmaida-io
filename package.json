@@ -1,0 +1,12 @@
+{
+  "name": "kmaida-io",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {}
+}
